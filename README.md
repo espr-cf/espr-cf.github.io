@@ -1,3 +1,9 @@
-<h1>ESPR 2017 Additional Resources</h1>
+# Aug 19 Classes
 
-<h2>Aug 19 classes</h2>
+## Statistical Street Fighting
+
+## Pair Debugging
+
+## Prisoner's Dilemma and Löb's Theorem
+
+## Inner Simulator
