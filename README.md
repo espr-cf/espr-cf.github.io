@@ -1,2 +1,1 @@
-# espr-cf.github.io
-Static serving for espr.cf
+# ESPR 2017 Additional Resources
