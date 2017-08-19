@@ -1,3 +1,6 @@
+---
+---
+
 # Aug 19 Classes
 
 ## Statistical Street Fighting
