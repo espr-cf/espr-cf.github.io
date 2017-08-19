@@ -1,6 +1,3 @@
----
-title: ESPR 2017 Additional Resources
-layout: post
----
+<h1>ESPR 2017 Additional Resources</h1>
 
-# Aug 19 classes
+<h2>Aug 19 classes</h2>
