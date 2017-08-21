@@ -1,5 +1,16 @@
 ---
+title: ESPR Additional Resources
 ---
+
+# Aug 21 Classes
+
+## Double-crux on AI risk
+
+## Developing assertive communication skills
+
+## Gambling and investing
+
+## Philosophy of Therapy
 
 # Aug 20 Classes 
 
