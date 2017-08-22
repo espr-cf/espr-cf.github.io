@@ -47,10 +47,23 @@ title: ESPR Additional Resources
 
 # Aug 19 Classes
 
+## Common Knowledge and Aumann's Agreement Theorem
+
+[Scott Aaronson's blog post](http://www.scottaaronson.com/blog/?p=2410)
+
 ## Statistical Street Fighting
 
 ## Bite-sized writing for powerful thinking
 
+Rough transcript of class is available [here](http://holdenlee.github.io/Bite-sized%20writing%20for%20powerful%20thinking.html). 
+
+Additional readings:
+
+* [Nonfiction writing advice (Slatestarcodex)](http://slatestarcodex.com/2016/02/20/writing-advice/): highly recommended
+* [Writing for thinking (Evan Chen)](https://usamo.wordpress.com/2015/03/14/writing/).
+
 ## Prisoner's Dilemma and Löb's Theorem
+
+[The evolution of trust](http://ncase.me/trust/) (interactive game)
 
 ## Inner Simulator
