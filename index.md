@@ -2,6 +2,12 @@
 title: ESPR Additional Resources
 ---
 
+# Aug 22 Classes
+
+## Politics of rationality
+
+[Notes](https://workflowy.com/s/BeBJ.RQeeAwU3my) taken by Holden.
+
 # Aug 21 Classes
 
 ## Double-crux on AI risk
