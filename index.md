@@ -11,6 +11,7 @@ title: ESPR Additional Resources
 # Aug 21 Classes
 
 ## Double-crux on AI risk
+    * (Double Crux)[http://lesswrong.com/lw/o6p/double_crux_a_strategy_for_resolving_disagreement/]
 
 ## Developing assertive communication skills
 
