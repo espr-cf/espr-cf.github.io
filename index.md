@@ -2,6 +2,12 @@
 title: ESPR Additional Resources
 ---
 
+# Aug 25 Classes
+
+## Systems Past
+
+* [Slides](https://docs.google.com/presentation/d/1QxLy0IV9EpSJRgiYXkji-vsHrl34wtS1_P-ReYekqbg/edit?usp=sharing)
+
 # Aug 22 Classes
 
 ## Politics of rationality
@@ -11,7 +17,7 @@ title: ESPR Additional Resources
 # Aug 21 Classes
 
 ## Double-crux on AI risk
-    * (Double Crux)[http://lesswrong.com/lw/o6p/double_crux_a_strategy_for_resolving_disagreement/]
+* [Double Crux](http://lesswrong.com/lw/o6p/double_crux_a_strategy_for_resolving_disagreement/)
 
 ## Developing assertive communication skills
 
