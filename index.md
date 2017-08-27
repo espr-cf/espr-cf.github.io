@@ -2,6 +2,15 @@
 title: ESPR Additional Resources
 ---
 
+# Aug 27 Classes
+
+## Rational fiction and narrativemancy
+
+* [Why paper beats rock (Map and Territory, Duncan Sabien)](https://mapandterritory.org/narrativemancy-101-why-paper-beats-rock-bc25bc1147b6?gi=e8613b798a30)
+* [Hey science teachers - make it fun (TED talk, Tyler Dewitt)](https://www.ted.com/talks/tyler_dewitt_hey_science_teachers_make_it_fun/transcript)
+
+# Aug 26 Classes
+
 # Aug 25 Classes
 
 ## Systems Past
