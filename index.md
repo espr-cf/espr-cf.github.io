@@ -27,6 +27,10 @@ title: ESPR Additional Resources
 * [Why paper beats rock (Map and Territory, Duncan Sabien)](https://mapandterritory.org/narrativemancy-101-why-paper-beats-rock-bc25bc1147b6?gi=e8613b798a30)
 * [Hey science teachers - make it fun (TED talk, Tyler Dewitt)](https://www.ted.com/talks/tyler_dewitt_hey_science_teachers_make_it_fun/transcript)
 
+## More Deep Learning
+
+[Slides](https://docs.google.com/presentation/d/1088U1EGjZml94yWafz5DoEmXNhQqfAdrGIm7tKVJEhk/edit?usp=sharing)
+
 # Aug 26 Classes
 
 # Aug 25 Classes
@@ -40,6 +44,10 @@ title: ESPR Additional Resources
 ## Politics of rationality
 
 [Notes](https://workflowy.com/s/BeBJ.RQeeAwU3my) taken by Holden.
+
+## Intro to Deep Learning
+
+[Slides](https://docs.google.com/presentation/d/14_SVK5SPKTXp3VhxlR_il_jczhNzsksNA-K7WXRjz1g/edit?usp=sharing)
 
 # Aug 21 Classes
 
