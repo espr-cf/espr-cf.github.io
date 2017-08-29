@@ -5,9 +5,20 @@ title: ESPR Additional Resources
 # Aug 29 Classes
 
 ## Computability and logic
+
 * [Very Basic Model Theory (LessWrong, Nate Soares)](http://lesswrong.com/lw/ixn/very_basic_model_theory/)
 * [Gödel's Incompleteness Theorems (Stanford Encyclopedia of Philosophy, Raatikainen, Panu)](https://plato.stanford.edu/entries/goedel-incompleteness/)
 * [Video Proof of the Halting Problem](https://www.youtube.com/watch?v=92WHN-pAFCs)
+
+## Newcomb's problem
+
+* [Kenny Easwaran on, "Newcomb's Paradox and the tragedy of rationality" (Rationally Speaking)](http://rationallyspeakingpodcast.org/show/rs140-kenny-easwaran-on-newcombs-paradox-and-the-tragedy-of.html)
+
+
+## Learning theory
+
+* The blessing and the curse of the multiplicative update: [book chapter](https://users.soe.ucsc.edu/~manfred/pubs/B1.pdf), [presentation](https://users.soe.ucsc.edu/~manfred/pubs/B1talk.pdf).
+* [Bandits game](tiny.cc/banditgame)
 
 # Aug 27 Classes
 
