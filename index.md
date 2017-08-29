@@ -6,7 +6,7 @@ title: ESPR Additional Resources
 
 ## Computability and logic
 * [Very Basic Model Theory (LessWrong, Nate Soares)](http://lesswrong.com/lw/ixn/very_basic_model_theory/)
-* [Gödel's Incompleteness Theorems](https://plato.stanford.edu/entries/goedel-incompleteness/)
+* [Gödel's Incompleteness Theorems (Stanford Encyclopedia of Philosophy, Raatikainen, Panu)](https://plato.stanford.edu/entries/goedel-incompleteness/)
 * [Video Proof of the Halting Problem](https://www.youtube.com/watch?v=92WHN-pAFCs)
 
 # Aug 27 Classes
