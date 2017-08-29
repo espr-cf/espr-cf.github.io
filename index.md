@@ -47,7 +47,7 @@ title: ESPR Additional Resources
 
 * [Slides](/ruu.pdf)
 * I learned probability from these books (highly recommended):
-    - [Probaility Theory, The Logic of Science](https://en.wikipedia.org/wiki/Special:BookSources/0-521-59271-2) by E.T. Jaynes ([first two chapters legitimately freely available](http://bayes.wustl.edu/etj/prob/book.pdf))
+    - [Probability Theory, The Logic of Science](https://en.wikipedia.org/wiki/Special:BookSources/0-521-59271-2) by E.T. Jaynes ([first two chapters legitimately freely available](http://bayes.wustl.edu/etj/prob/book.pdf))
     - [Data Analysis: A Bayesian Tutorial](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0198568322) by D.S. Sivia and J. Skilling
 * (Some) relevant primary sources:
     - [Foundations of the Theory of Probability](https://pdfs.semanticscholar.org/c3e1/51f71168a5f348bdebfde11752ca603fa6d0.pdf) by A.N. Kolmogorov, 1933
