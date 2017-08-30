@@ -6,7 +6,7 @@ title: ESPR Additional Resources
 
 ## Visualize Deep Learning
 
-* [Slides](https://docs.google.com/presentation/d/1AczBEIt3Agcmi_Cu28RPdZOuLR9IS_y0wD0wX36XXJo/edit?usp=sharing)
+* [Demos](http://dl.espr.cf)
 * [Handout](https://docs.google.com/document/d/1NXgaTRWaUvqbuCy-wMWsndqfQugJdFQtmdrjIo2HFTE/edit?usp=sharing)
 
 # Aug 29 Classes
