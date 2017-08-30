@@ -20,6 +20,12 @@ title: ESPR Additional Resources
 * The blessing and the curse of the multiplicative update: [book chapter](https://users.soe.ucsc.edu/~manfred/pubs/B1.pdf), [presentation](https://users.soe.ucsc.edu/~manfred/pubs/B1talk.pdf).
 * [Bandits game](tiny.cc/banditgame)
 
+# Aug 28 Classes
+
+## Theorem Proving in Haskell
+
+[HaskellProofs.hs](HaskellProofs.hs)
+
 # Aug 27 Classes
 
 ## Rational fiction and narrativemancy
