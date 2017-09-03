@@ -2,6 +2,8 @@
 title: ESPR Additional Resources
 ---
 
+[Holden's notes](https://dynalist.io/d/wW7edPHuU41y1qxWAI0fL__c#z=B39vECRFx3t7_wywwW3OFGnQ)
+
 # Aug 30 Classes
 
 ## Visualize Deep Learning
@@ -52,11 +54,13 @@ title: ESPR Additional Resources
 
 * [Slides](https://docs.google.com/presentation/d/1QxLy0IV9EpSJRgiYXkji-vsHrl34wtS1_P-ReYekqbg/edit?usp=sharing)
 
+## Esperanto
+
+* [transcript](https://docs.google.com/document/d/1Q2CtDmoEteti4ZhXosaZy19gqnMB-Ce_3yWpTw5qHm4/edit?usp=sharing)
+* [cheat sheet](https://docs.google.com/document/d/1P5coL-m71dCD8J8YuFu6tpA1awwGcVQur4BQ6Z1uhsw/edit?usp=sharing)
+
 # Aug 22 Classes
 
-## Politics of rationality
-
-[Notes](https://workflowy.com/s/BeBJ.RQeeAwU3my) taken by Holden.
 
 ## Intro to Deep Learning
 
@@ -65,6 +69,7 @@ title: ESPR Additional Resources
 # Aug 21 Classes
 
 ## Double-crux on AI risk
+
 * [Double Crux](http://lesswrong.com/lw/o6p/double_crux_a_strategy_for_resolving_disagreement/)
 
 ## Developing assertive communication skills
