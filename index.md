@@ -59,6 +59,19 @@ title: ESPR Additional Resources
 * [transcript](https://docs.google.com/document/d/1Q2CtDmoEteti4ZhXosaZy19gqnMB-Ce_3yWpTw5qHm4/edit?usp=sharing)
 * [cheat sheet](https://docs.google.com/document/d/1P5coL-m71dCD8J8YuFu6tpA1awwGcVQur4BQ6Z1uhsw/edit?usp=sharing)
 
+# Aug 24 Classes
+
+## Attachment theory
+
+Look up: 
+
+* Sue Johnson
+	* Love Sense
+    * Hold me tight
+* Insecure in Love
+* Avoidant by Keith Johnstone
+
+
 # Aug 22 Classes
 
 
