@@ -79,6 +79,20 @@ Look up:
 
 [Slides](https://docs.google.com/presentation/d/14_SVK5SPKTXp3VhxlR_il_jczhNzsksNA-K7WXRjz1g/edit?usp=sharing)
 
+## Politics of Rationality
+For an introductory book:
+
+* [The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor (William Easterly )](https://www.amazon.com/Tyranny-Experts-Economists-Dictators-Forgotten/dp/0465089739/)
+
+For a deeper dive:
+* [Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed (James C. Scott)](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)
+
+Four more academic texts:
+-- https://www.amazon.com/Rule-Experts-Egypt-Techno-Politics-Modernity/dp/0520232623/
+-- https://www.amazon.com/Will-Improve-Governmentality-Development-Practice/dp/0822340275/
+-- https://www.amazon.com/Encountering-Development-Making-Unmaking-Third/dp/0691150451/
+-- https://www.amazon.com/Anti-Politics-Machine-Development-Depoliticization-Bureaucratic/dp/0816624372/
+
 # Aug 21 Classes
 
 ## Double-crux on AI risk
@@ -121,6 +135,7 @@ Look up:
     - [Loomis-Sikorski representation theorem](https://terrytao.wordpress.com/2009/01/12/245b-notes-1-the-stone-and-loomis-sikorski-representation-theorems-optional/) and connections to [Stone duality](https://en.wikipedia.org/wiki/Stone_duality)
 
 ## Limitations of Technology in Social Change
+* [To Save Everything Click Here: The Folly of Technological Solutionism (Evgeny Morozov)](https://www.amazon.com/Save-Everything-Click-Here-Technological/dp/1610393708/)
 
 ## Pair Debugging
 
