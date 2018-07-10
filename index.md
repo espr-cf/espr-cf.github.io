@@ -22,6 +22,13 @@ title: ESPR 2018 Additional Resources
 
 ## Cryptography (Tim)
 
+* One-way Hashes
+* Secret Key Exchange/Diffie-Hellman Key Exchange
+
+Also see:
+
+* Public Key Crypto/RSA
+
 ## Assertive Communication (Luke)
 
 # July 6 Classes
@@ -55,13 +62,13 @@ title: ESPR 2018 Additional Resources
 
 ## Attachment Theory (Tyler)
 
-[Slides](https://docs.google.com/presentation/d/1Q5I3lR_yXAMMAMFsaKXwBgP8JkEYw2PBny9sO7URf_o/edit?usp=sharing)
+[Teacher's Notes Slides](https://docs.google.com/presentation/d/1Q5I3lR_yXAMMAMFsaKXwBgP8JkEYw2PBny9sO7URf_o/edit?usp=sharing)
 
 Look up:
 
 * Sue Johnson
 	* Love Sense
-    * Hold me tight
+    * Hold Me Tight
 * Insecure in Love
 * Avoidant by Keith Johnstone
 
