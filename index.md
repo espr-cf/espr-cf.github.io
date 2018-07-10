@@ -38,9 +38,16 @@ title: ESPR 2018 Additional Resources
 
 ## Double Crux (Elizabeth)
 
+* [Double Crux](http://lesswrong.com/lw/o6p/double_crux_a_strategy_for_resolving_disagreement/)
+
 ## Community Things (Galit)
 
 ## AI Risk (Adam, Mihaly)
+
+## Intro to Deep Learning (Vlad)
+
+[Slides](https://docs.google.com/presentation/d/14_SVK5SPKTXp3VhxlR_il_jczhNzsksNA-K7WXRjz1g/edit?usp=sharing)
+
 
 # July 9 Classes
 
@@ -48,9 +55,21 @@ title: ESPR 2018 Additional Resources
 
 ## Attachment Theory (Tyler)
 
+[Slides](https://docs.google.com/presentation/d/1Q5I3lR_yXAMMAMFsaKXwBgP8JkEYw2PBny9sO7URf_o/edit?usp=sharing)
+
+Look up:
+
+* Sue Johnson
+	* Love Sense
+    * Hold me tight
+* Insecure in Love
+* Avoidant by Keith Johnstone
+
 ## Internal Double Crux (Gabor, Tina)
 
 ## Prisoner's Dilemma and Lob's Theory (Mihaly)
+
+[The evolution of trust](http://ncase.me/trust/) (interactive game)
 
 # July 10 Classes
 
