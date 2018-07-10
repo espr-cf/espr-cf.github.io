@@ -37,6 +37,8 @@ Also see:
 
 ## Coordination Problems (Stag)
 
+[Open Problems in Group Rationality (Duncan Sabien)](https://medium.com/@ThingMaker/open-problems-in-group-rationality-5636440a2cd1)
+
 ## Nonviolent Communication and Internal Design (Tina)
 
 # July 7 Classes
