@@ -36,60 +36,42 @@ title: ESPR 2018 Additional Resources
 
 # July 7 Classes
 
-##
+## Double Crux (Elizabeth)
 
-##
+## Community Things (Galit)
 
-##
-
-##
-
-# July 8 Classes
-
-##
-
-##
-
-##
-
-##
+## AI Risk (Adam, Mihaly)
 
 # July 9 Classes
 
-##
+## Heroic Narrativemancy (Daystar)
 
-##
+## Attachment Theory (Tyler)
 
-##
+## Internal Double Crux (Gabor, Tina)
 
-##
+## Prisoner's Dilemma and Lob's Theory (Mihaly)
 
 # July 10 Classes
 
-##
+## Sexual Selection (Reka)
 
-##
+## TAPs/Habits 101 (Q)
 
-##
-
-##
+## Bayesian Probability (Mihaly)
 
 # July 11 Classes
 
-##
+## Computational Origami (Wendi)
 
-##
+## Quantum Things (Galit)
 
-##
-
-##
+## Defense Against the Dark Arts (Luke, Nuno, Reka)
 
 # July 12 Classes
 
-##
+## Sum Math Class (Tim, Galit)
 
-##
+## Happiness/Illusion of the Self (Florent)
 
-##
-
-##
+## Everything We Teach at ESPR is Wrong (Gabor, Luke)
