@@ -2,8 +2,6 @@
 title: ESPR 2018 Additional Resources
 ---
 
-[ESPR 2017](espr2017)
-
 # July 4 Classes
 
 ## Philosophy of Therapy (Daystar)
