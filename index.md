@@ -11,8 +11,7 @@ title: ESPR 2018 Additional Resources
 ## Murphy Jiutsu and Inner Simulator (Luke)
 
 [Planning 101 (Owen Shen)](https://mindlevelup.wordpress.com/mindlevelup-the-book/planning-101/)
-
-* Talks about Murphy Jiutsu in the context of planning. 
+* Talks about Murphy Jiutsu in the context of planning.
 
 ## What is Bitcoin? (Mihaly)
 
