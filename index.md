@@ -33,6 +33,8 @@ Also see:
 
 ## Units of Exchange (Adam)
 
+See the chapter, "Engines of Cognition" in _Rationality from AI to Zombies_.
+
 ## The Earth as a Machine (Gabor)
 
 ## Coordination Problems (Stag)
@@ -83,6 +85,8 @@ Look up:
 ## Sexual Selection (Reka)
 
 ## TAPs/Habits 101 (Q)
+
+[Habits 101: Research and Techniques (Owen Shen)](https://medium.com/mindlevelup/habits-101-techniques-and-research-da8f4bb918f5)
 
 ## Bayesian Probability (Mihaly)
 
